@@ -32,7 +32,7 @@ The make up of TSC should be a diverse and multidisciplinary group.
 
 ## Becoming a member of TSC
 
-Interest to join TSC to become a Maintainer, should be forwarded to maintainers@designsystemau.org.
+Interest to join TSC to become a Maintainer, should be forwarded to tsc@designsystemau.org.
 Please include your experience with the system and why you would like to join this group.
 
 Anyone can become a Maintainer.
