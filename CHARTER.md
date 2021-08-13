@@ -64,10 +64,3 @@ The expectation is that meetings may be held at most every 2 months.
 The process of making changes to the Australian Government Design System follows the common Request for Comments (RFC) process.
 
 See [RFC Readme](https://github.com/designsystemau/RFCs/blob/main/README.md).
-
----
-
-Additional note
-This document is guided by foundations established and run successfully:
-Rust foundation https://www.rust-lang.org/governance
-Node foundation https://nodejs.org/en/about/governance/
