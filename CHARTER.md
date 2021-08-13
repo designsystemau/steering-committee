@@ -26,16 +26,15 @@
 
 The make up of TSC should be a diverse and multidisciplinary group.
 
-- Include a diverse multidisciplinary team (developers, designers, accessibility experts, others )
+- Include a diverse multidisciplinary team (developers, designers, accessibility experts, others)
 - Include people from government entities
 - Include experts from the private sector as volunteer advisors
 
 ## Becoming a member of TSC
 
-Interest to join TSC to become a Maintainer, should be forwarded to tsc@designsystemau.org.
-Please include your experience with the system and why you would like to join this group.
+Interest to join TSC to become a Maintainer, should be forwarded to maintainers@designsystemau.org. Please include information about your experience with the system and why you would like to join this group.
 
-Anyone can become a Maintainer.
+Anyone, with any level of experience can become a Maintainer.
 
 Inactivity in TSC may result in Maintainer status being revoked.
 
@@ -45,6 +44,7 @@ Reasons one might lose their membership in this group:
 
 - Violation of the Code of Conduct
 - Extended absence from the project, including not attending meetings
+- Ineffectiveness in the role
 
 ## TSC meetings
 
@@ -55,9 +55,7 @@ The TSC can be called to meet to discuss matters around:
 - New initiatives or working groups
 - Planning for major milestones
 
-The meetings should be infrequent and only be necessary when urgent.
-Attendance is critical hence scheduling is hard.
-The expectation is that meetings may be held at most every 2 months.
+The meetings should be infrequent and only be necessary when urgent. Attendance is critical hence scheduling is hard. Expectation is that meetings may be held at most every 2 months.
 
 ## RFC process
 
