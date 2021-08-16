@@ -4,7 +4,7 @@
 
 - To continue to make the Australian Government Design System the best design system for government.
 - To provide permanent ongoing management of and support for Australian Government Design System, ensuring it will remain a viable solution for existing and future users.
-- To be a centralised place for framework adaptations and tooling for Australian Government Design System.
+- To provide a centralised place for framework adaptations and tooling for Australian Government Design System.
 
 ## Responsibilities of TSC
 
@@ -24,7 +24,7 @@
 
 ## Make up of TSC
 
-The make up of TSC should be a diverse and multidisciplinary group.
+The make up of TSC should be a diverse and multidisciplinary group:
 
 - Include a diverse multidisciplinary team (developers, designers, accessibility experts, others)
 - Include people from government entities
