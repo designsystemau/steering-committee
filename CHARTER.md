@@ -6,6 +6,21 @@
 - To provide permanent ongoing management of and support for Australian Government Design System, ensuring it will remain a viable solution for existing and future users.
 - To provide a centralised place for framework adaptations and tooling for Australian Government Design System.
 
+## Principles
+
+1. [Start with user needs](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs)
+2. [Do less](https://www.gov.uk/guidance/government-design-principles#do-less)
+3. [Design with data](https://www.gov.uk/guidance/government-design-principles#design-with-data)
+4. [Do the hard work to make it simple](https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple)
+5. [Iterate. Then iterate again](https://www.gov.uk/guidance/government-design-principles#iterate-then-iterate-again)
+6. [This is for everyone](https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone)
+7. [Understand context](https://www.gov.uk/guidance/government-design-principles#understand-context)
+8. [Build digital services, not websites](https://www.gov.uk/guidance/government-design-principles#build-digital-services-not-websites)
+9. [Be consistent, not uniform](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform)
+10. [Make things open: it makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better)
+ 
+We have chosen to adapt our principles from [the Gov UK, Government design principles](https://www.gov.uk/guidance/government-design-principles) and the [Australian digital service standard](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria, these guidelines have been iterated on since 2012 and provide a solid foundation for delivering government service.
+
 ## Responsibilities of TSC
 
 - Technical development
