@@ -19,7 +19,7 @@
 9. [Be consistent, not uniform](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform)
 10. [Make things open: it makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better)
  
-We have chosen to adapt our principles from [the Gov UK, Government design principles](https://www.gov.uk/guidance/government-design-principles) and the [Australian digital service standard](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria), these guidelines have been iterated on since 2012 and provide a solid foundation for delivering government service.
+We have chosen to adapt our principles from [the Gov UK, Government Design Principles](https://www.gov.uk/guidance/government-design-principles) and the [Australian Digital Service Standard](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria), these guidelines have been iterated on since 2012 and provide a solid foundation for delivering government service.
 
 ## Responsibilities of TSC
 
