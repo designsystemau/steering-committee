@@ -37,7 +37,7 @@ Before requesting a PR review, make sure you’ve ticked off the following.
 When a PR is ready for review, you must request a reviewer. You can either:
 
 - Select individual reviewers if you would like a review from specific people.
-- Select `maintainers` group if you would like a review from anyone in the TSC team
+- Select `designsystemau/maintainers` group if you would like a review from anyone in the TSC team
 
 <p align="center">
 	<img width="600" src="images/PR-maintainers.png" alt="Select the maintainers group from the request PR review dropdown">
