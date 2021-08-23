@@ -38,7 +38,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 
 ## Government Organisations
 
-> The word "Government Organisations" is a collective noun that describes all government entities, including agencies, departments, offices and so on.
+> Government Organisations is a collective noun that describes all government entities, including agencies, departments, offices and so on.
 
 * The primary way Government organisations will engage with the Design System is through using it in the delivery of their digital products and services
 * Government organisations have expectations of the Design System (suitability for its purpose, ongoing development, clarity on future features) that must be met by the community for them to be comfortable using it
