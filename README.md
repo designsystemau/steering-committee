@@ -2,9 +2,11 @@
 
 Technical Steering Committee for Australian Government Design System.
 
-Read the [Code of Conduct](CODE-OF-CONDUCT.md).
+To understand your role within this project, read [Roles](ROLES.md).
 
-Read the [Charter of the TSC](CHARTER.md).
+To understand our expectations of conduct, read the [Code of Conduct](CODE-OF-CONDUCT.md).
+
+To understand how TSC works, read the [Charter of the TSC](CHARTER.md).
 
 To participate in Design System Au Committee, please send an email to maintainers@designsystemau.org.
 
