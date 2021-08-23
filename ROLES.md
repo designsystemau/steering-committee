@@ -16,7 +16,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 * Maintainers are the core community members responsible for ongoing management and decision-making for the Design System
 * Anyone living or working for Australia can become a Maintainer
 * The group of Maintainers forms the Technical Steering Committee (TSC)
-* Membership, responsibilities expectations of the TSC is covered by this [TSC Charter](https://github.com/designsystemau/TSC/blob/main/CHARTER.md) and our [Code of Conduct](https://github.com/designsystemau/TSC/blob/main/CODE-OF-CONDUCT.md)
+* Membership, responsibilities expectations of the TSC is covered by this [TSC Charter](CHARTER.md) and our [Code of Conduct](CODE-OF-CONDUCT.md)
 * In TSC, Maintainers have equal voting rights, and there is no other hierarchy within this group
 * Effectively they are the product managers and core developers of the Design System, leading the RFC process and facilitating working groups in order to make consensus decisions over technical architecture and future direction
 * The TSC are responsible managing contributions to the Design System made by supporting organisations, Government agencies and individuals in the broader community
@@ -38,16 +38,16 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 
 * The primary way Government organisations will engage with the Design System is through using it in the delivery of their digital products and services
 * Government organisations have expectations of the Design System (suitability for its purpose, ongoing development, clarity on future features) that must be met by the community for them to be comfortable using it
-* The TSC expect Government organisations to act in the best interest of the Design System, which includes following the [MIT License](https://github.com/designsystemau/TSC/blob/main/LICENSE), using our provided solutions for reporting issues and requesting changes, and sharing their work and findings with the community
+* The TSC expect Government organisations to act in the best interest of the Design System, which includes following the [MIT License](LICENSE), using our provided solutions for reporting issues and requesting changes, and sharing their work and findings with the community
 * Beyond their own delivery work, Government organisations may also act in support of the Design System & TSC, as defined above.
 
 ## Contributors (on behalf of Government Organisations)
 
 * This includes members of the community who make open source contributions to the project, attend events and participate in our Slack community
-* Actions of Contributors are governed by our [Code of Conduct](https://github.com/designsystemau/TSC/blob/main/CODE-OF-CONDUCT.md)
+* Actions of Contributors are governed by our [Code of Conduct](CODE-OF-CONDUCT.md)
 
 ## Contributors
 
 * The Contributors role captures anyone acting independently (not on behalf of an Organisation or Government Agency) in support of the Design System
 * This includes members of the community who make open source contributions to the project, attend events and participate in our Slack community
-* Actions of Contributors are governed by our [Code of Conduct](https://github.com/designsystemau/TSC/blob/main/CODE-OF-CONDUCT.md)
+* Actions of Contributors are governed by our [Code of Conduct](CODE-OF-CONDUCT.md)
