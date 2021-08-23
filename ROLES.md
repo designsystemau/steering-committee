@@ -14,7 +14,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 > A Maintainer is as a member of the Technical Steering Committee. The group of Maintainers forms the TSC.
 
 * Maintainers are the core community members responsible for ongoing management and decision-making for the Design System
-* Anyone living or working for Australia can become a Maintainer
+* Anyone can become a Maintainer
 * The group of Maintainers forms the Technical Steering Committee (TSC)
 * Membership, responsibilities expectations of the TSC is covered by this [TSC Charter](CHARTER.md) and our [Code of Conduct](CODE-OF-CONDUCT.md)
 * In TSC, Maintainers have equal voting rights, and there is no other hierarchy within this group
