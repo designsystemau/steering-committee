@@ -30,7 +30,7 @@ We have chosen to adapt our principles from [the Gov UK, Government Design Princ
 - Technical direction
 - Project governance and process
 - GitHub repository hosting and npm publishing
-- Code of Conduct enforcement
+- [Code of Conduct](CODE-OF-CONDUCT.md) enforcement
 - Development process and any coding standards
 - Mediating technical conflicts between Collaborators and TSC projects
 - Changes to this Charter
@@ -57,7 +57,7 @@ Inactivity in TSC may result in Maintainer status being revoked.
 
 Reasons one might lose their membership in this group:
 
-- Violation of the Code of Conduct
+- Violation of the [Code of Conduct](CODE-OF-CONDUCT.md)
 - Extended absence from the project, including not attending meetings
 - Ineffectiveness in the role
 
