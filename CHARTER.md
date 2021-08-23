@@ -2,9 +2,13 @@
 
 ## Goals of the project
 
-- To continue to make the Australian Government Design System the best design system for government.
-- To provide permanent ongoing management of and support for Australian Government Design System, ensuring it will remain a viable solution for existing and future users.
-- To provide a centralised place for framework adaptations and tooling for Australian Government Design System.
+1. Continuation and stability of the Design System
+    - making the Australian Government Design System the best design system for government
+2. Permanent ongoing management of and support for Design System
+    - ensuring it will remain a viable solution for existing and future users
+    - ensuring that users have active avenues to get guidance or help 
+3. A centralised ecosystem for library extensions
+    - providing a centralised place for UI framework adaptations, tooling and various other add-ons, expanding the utility of the Design System
 
 ## Principles
 
