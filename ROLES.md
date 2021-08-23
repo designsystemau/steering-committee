@@ -11,6 +11,8 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 
 ## Maintainers (Technical Steering Committee)
 
+> A Maintainer is as a member of the Technical Steering Committee. The group of Maintainers forms the TSC.
+
 * Maintainers are the core community members responsible for ongoing management and decision-making for the Design System
 * Anyone living or working for Australia can become a Maintainer
 * The group of Maintainers forms the Technical Steering Committee (TSC)
