@@ -20,6 +20,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 * In TSC, Maintainers have equal voting rights, and there is no other hierarchy within this group
 * Effectively they are the product managers and core developers of the Design System, leading the RFC process and facilitating working groups in order to make consensus decisions over technical architecture and future direction
 * The TSC are responsible managing contributions to the Design System made by supporting organisations, Government agencies and individuals in the broader community
+* Maintainers will be attributed [location TBD]
 
 ## Supporting Organisations
 
@@ -31,6 +32,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
     * Promotion - helping drive awareness of the Design System and performing community outreach
     * Financial - sponsorship or direct funding to cover costs incurred in managing and supporting the Design System, running community events
 * Their engagement with the Design System will be formally defined by a Partnership Agreement [TBD] and will be published in the open
+* Supporting Organisations will be attributed on the website [location TBD]
 
 ## Government Organisations
 
@@ -40,6 +42,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 * Government organisations have expectations of the Design System (suitability for its purpose, ongoing development, clarity on future features) that must be met by the community for them to be comfortable using it
 * The TSC expect Government organisations to act in the best interest of the Design System, which includes following the [MIT License](LICENSE), using our provided solutions for reporting issues and requesting changes, and sharing their work and findings with the community
 * Beyond their own delivery work, Government organisations may also act in support of the Design System & TSC, as defined above.
+* Supporting Government Organisations will be attributed on the website [location TBD]
 
 ## Contributors (on behalf of Government Organisations)
 
