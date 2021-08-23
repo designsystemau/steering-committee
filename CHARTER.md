@@ -7,7 +7,7 @@
 2. Permanent ongoing management of and support for Design System
     - ensuring it will remain a viable solution for existing and future users
     - ensuring that users have active avenues to get guidance or help 
-3. A centralised ecosystem of library extensions
+3. A centralised ecosystem for library extensions
     - providing a centralised place for UI framework adaptations, tooling and various other add-ons, expanding the utility of the Design System
 
 ## Principles
