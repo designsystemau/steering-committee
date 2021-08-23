@@ -64,7 +64,7 @@ If you are waiting on a TSC team review (e.g. not a specific person), you can sh
 
 ## Merging PRs
 
-The developer is responsible for merging their own PRs once they are approved. The auto-merge feature can be enabled, which will allow the PR to be auto-merged as soon as it passes CI and is approved. In some instances the developer may want to have more control over the timing of their merge, in which case they can leave auto-merge disabled and perform the merge manually when ready. Never merge someone else's PR.
+The author is responsible for merging their own PRs once they are approved. The auto-merge feature can be enabled, which will allow the PR to be auto-merged as soon as it passes CI and is approved. In some instances the developer may want to have more control over the timing of their merge, in which case they can leave auto-merge disabled and perform the merge manually when ready. Never merge someone else's PR.
 
 ## Slack Requests
 
