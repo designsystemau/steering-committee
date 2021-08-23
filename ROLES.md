@@ -24,6 +24,8 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 
 ## Supporting Organisations
 
+> Supporting Organisations describes any non-government entity.
+
 * Supporting Organisations are third parties who play an active and ongoing role in supporting the work of the TSC and the Design System itself
 * These organisations may include non-for-profits and NGOs, commercial vendors and Government organisations (operating in a different context to use of the Design System in delivery which is covered below) with a vested interest in the sustainability of the Design System
 * Support could take multiple forms, including but not limited to:
@@ -36,7 +38,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
 
 ## Government Organisations
 
-> The word "Government Organisations" is used as a collective noun to describe all government entities, including agencies, departments, offices and so on.
+> The word "Government Organisations" is a collective noun that describes all government entities, including agencies, departments, offices and so on.
 
 * The primary way Government organisations will engage with the Design System is through using it in the delivery of their digital products and services
 * Government organisations have expectations of the Design System (suitability for its purpose, ongoing development, clarity on future features) that must be met by the community for them to be comfortable using it
