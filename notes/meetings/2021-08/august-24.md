@@ -4,8 +4,8 @@
 
 | Name | Abbreviation | Organisation |
 | - | - | - |
-|Elise Chant|EC  |
-|Dominick Wilkowski|DW  |
+|Elise Chant|EC  | Thinkmill
+|Dominik Wilkowski|DW  | Thinkmill
 |Matt Sawkill|MS  |Code for Australia
 
 We are only listing facilitators for this meeting as other attendees were prospective TSC members.
