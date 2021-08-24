@@ -2,7 +2,7 @@
 
 > This document outlines the procedures for shipping PRs, including the who/what/where of PR reviews.
 
-## General principals
+## General principles
 
 - We want to lean in on GitHub best practices
 - We want to make asking for reviews as low friction as possible
