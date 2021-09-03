@@ -33,7 +33,7 @@ Matt Sawkill from Code for Australia (@sawks on Slack and Github) is the primary
     * Advice - their employees provide guidance to the TSC on specific issues
     * Promotion - helping drive awareness of the Design System and performing community outreach
     * Financial - sponsorship or direct funding to cover costs incurred in managing and supporting the Design System, running community events
-* Their engagement with the Design System will be formally defined by a Partnership Agreement [TBD] and will be published in the open
+* Their engagement with the Design System will be formally defined by a [Partnership Agreement](PARTNERSHIP.md) and will be published in the open
 * Supporting Organisations will be attributed on the website [location TBD]
 
 ## Government Organisations
