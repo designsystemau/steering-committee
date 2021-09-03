@@ -1,5 +1,7 @@
 # Australian Government Design System - Partnership Agreement with Code for Australia
 
+_Agreement date: 3 September 2021_
+
 ## Parties
 This document is an agreement between the Technical Steering Committee, and Code for Aus Pty Ltd (Code for Australia) - represented by [Matt Sawkill, Managing Director](https://github.com/sawks), covering activities performed in support of the community maintained Australian Government Design System.
 
