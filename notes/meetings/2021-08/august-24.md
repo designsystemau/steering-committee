@@ -4,16 +4,20 @@
 
 | Name | Abbreviation | Organisation |
 | - | - | - |
-|Elise Chant|EC  | Thinkmill
-|Dominik Wilkowski|DW  | Thinkmill
-|Matt Sawkill|MS  |Code for Australia
+| Elise Chant | EC | Department of Agriculture |
+| Dominik Wilkowski | DW | Thinkmill |
+| Matt Sawkill | MS |Code for Australia |
 
 We are only listing facilitators for this meeting as other attendees were prospective TSC members.
 
 ## Resources
 
-- [Meeting Slides](https://docs.google.com/presentation/d/1SDMQwlnCbFCcdy2Z-gy7EcVNRuKz0dMoZwj8mpCWluE/edit#slide=id.geaebde68e3_0_22)
+- [Meeting Slides](assets/slides-august-24.pdf)
 - [Meeting Recording](https://vimeo.com/591398381) (passcode shared with attendees)
+
+# Prior
+
+* Why are we here? [DTA Design System has been decommissioned](assets/DTA%20Design%20System%20has%20been%20decommissioned%20-%20Design%20System%20-%20Communities%20of%20practice.pdf)
 
 ## Welcome
 
