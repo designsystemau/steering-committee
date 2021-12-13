@@ -10,8 +10,8 @@
 
 ## Resources
 
-- [Survey Summary Results](assets/gold-community-survey-results.pdf)
-- [Survey Full Results](assets/survey-full-results.pdf)
+- [Survey Summary Results](assets/survey-results.pdf)
+- [Survey Full Results](assets/survey-results-full.csv)
 
 ## Prior
 
