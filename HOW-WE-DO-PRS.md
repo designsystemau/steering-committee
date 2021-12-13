@@ -37,7 +37,7 @@ Before requesting a PR review, make sure you’ve ticked off the following.
 When a PR is ready for review, you must request a reviewer. You can either:
 
 - Select individual reviewers if you would like a review from specific people.
-- Select `designsystemau/maintainers` group if you would like a review from anyone in the TSC team
+- Select `designsystemau/maintainers` group if you would like a review from anyone in the Steering Committee
 
 <p align="center">
 	<img width="600" src="images/PR-maintainers.png" alt="Select the maintainers group from the request PR review dropdown">
@@ -48,7 +48,7 @@ If you request a review from two people, you only need to get approval from one 
 
 Reviewers will receive a notification in GitHub when a review has been requested either individually or as a member of the team.
 
-It is the responsibility of all TSC members to have visibility over their notifications so that developers do not have to chase up reviews.
+It is the responsibility of all Steering Committee members to have visibility over their notifications so that developers do not have to chase up reviews.
 
 ## Revoking a request
 
@@ -60,7 +60,7 @@ If you as the developer decide that the PR needs more work and is no longer in a
 
 ## Response Times
 
-If you are waiting on a TSC team review (e.g. not a specific person), you can shout out in the slack channel after a couple of days if you haven’t received any feedback.
+If you are waiting on a Steering Committee team review (e.g. not a specific person), you can shout out in the slack channel after a couple of days if you haven’t received any feedback.
 
 ## Merging PRs
 

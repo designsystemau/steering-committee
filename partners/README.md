@@ -14,10 +14,10 @@ This document is an agreement between the Technical Steering Committee, and {Sup
 - Sharing feedback with the Technical Steering Committee
 - (delete or add points below as agreed)
 - Granting time and resources for their employees to work on Design System maintenance tasks
-- Providing expert advice to the TSC on specific issues
+- Providing expert advice to the Steering Committee on specific issues
 - Providing financial support to help cover costs incurred in managing and supporting the Design System and associated community events
 
-## TSC Responsibilities
+## Steering Committee Responsibilities
 The Technical Steering Committee are responsible for:
 - Keeping {Supporting Organisation} informed of forthcoming activities and decisions made which are relevant to {Supporting Organisation}'s work, via communication in this repository and our Slack community
 - Governance of {Supporting Organisation}'s conduct in support of the Design System

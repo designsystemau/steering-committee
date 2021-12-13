@@ -11,13 +11,13 @@ Code for Australia are responsible for:
 - Helping raise awareness of the Design System and its community supported model with existing and potential users
 - Sharing feedback with the Technical Steering Committee
 - Granting time and resources for their employees to work on Design System maintenance tasks
-- Providing expert advice to the TSC on specific issues
+- Providing expert advice to the Steering Committee on specific issues
 - Providing financial support to help cover costs incurred in managing and supporting the Design System and associated community events
 - Assisting the Technical Steering Committee with media relations and outreach
 - Assisting the Technical Steering Committee with community and event management
 - Assisting the Technical Steering Committee in direct engagement with exisiting and potential Government users of the Design System
 
-## TSC Responsibilities
+## Steering Committee Responsibilities
 The Technical Steering Committee are responsible for:
 - Keeping Code for Australia informed of forthcoming activities and decisions made which are relevant to Code for Australia's work, via communication in this repository and our Slack community
 - Governance of Code for Australia's conduct in support of the Design System
