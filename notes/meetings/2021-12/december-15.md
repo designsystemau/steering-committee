@@ -10,11 +10,12 @@
 
 ## Resources
 
-- [Survey Results](assets/?)
+- [Survey Summary Results](assets/gold-community-survey-results.pdf)
+- [Survey Full Results](assets/survey-full-results.pdf)
 
 ## Prior
 
-* Maintainers have viewed proposal state RFCs
+* Maintainers have read proposed RFCs
 
 ## Survey findings
 
@@ -30,7 +31,8 @@
 
 ## Maintainers commitments
 
-* Discuss membership in the Steering Committee comes with a min time spend on the project
+* Min time spend
+* TODO
 
 ## RFC approvals
 
