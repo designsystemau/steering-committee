@@ -33,20 +33,20 @@ We acknowledged the organisations represented by attendees.
 
 EC explained the goals of the project and the [TSC charter](https://github.com/designsystemau/TSC/blob/main/CHARTER.md#goals-of-the-project).
 
-## Technical Steering Committee and Governance
+## Steering Committee and Governance
 
 MS explained the [roles](https://github.com/designsystemau/TSC/blob/main/ROLES.md) of TSC, Supporting Organisations, Government Agencies and Contributors
 
 DW introduced the [Code of Conduct](https://github.com/designsystemau/TSC/blob/main/CODE-OF-CONDUCT.md), TSC [structure](https://github.com/designsystemau/TSC/) and [RFC process](https://github.com/designsystemau/RFCs/).
 
 DW's notes:
-- We have created the Technical Steering Committee
+- We have created the Steering Committee
 - We have a Charter that outlines how we want to organise the TSC
 - We have outlined how we think changes should be implemented to the Design System via the RFC process
 - All of those things are starting positions and can be iterated on by the community now
 - Everything we do we will do in the open
 - The TSC meeting notes will published including for this meeting [Reference](https://raw.githubusercontent.com/tc39/notes/master/meetings/2021-07/july-13.md)
-- TSC definition: Monitors and reviews project status, as well as provide oversight of the deliverables. The Technical Steering Committee provides a stabilizing influence so organizational concepts and directions are established and maintained with a visionary view.
+- TSC definition: Monitors and reviews project status, as well as provide oversight of the deliverables. The Steering Committee provides a stabilizing influence so organizational concepts and directions are established and maintained with a visionary view.
 
 ## Managing departmental risk
 

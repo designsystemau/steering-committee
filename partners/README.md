@@ -5,20 +5,20 @@
 _Agreement date: {DD Month Year}_
 
 ## Parties
-This document is an agreement between the Technical Steering Committee, and {Supporting Organisation} - represented by {Contact name, role & github account}, covering activities performed in support of the community maintained Australian Government Design System.
+This document is an agreement between the Steering Committee, and {Supporting Organisation} - represented by {Contact name, role & github account}, covering activities performed in support of the community maintained Australian Government Design System.
 
 ## {Supporting Organisation} Responsibilities
 {Supporting Organisation} are responsible for:
 - Working in the open and communicating with transparency about their role in support of the Design System
 - Helping raise awareness of the Design System and its community supported model with existing and potential users
-- Sharing feedback with the Technical Steering Committee
+- Sharing feedback with the Steering Committee
 - (delete or add points below as agreed)
 - Granting time and resources for their employees to work on Design System maintenance tasks
 - Providing expert advice to the Steering Committee on specific issues
 - Providing financial support to help cover costs incurred in managing and supporting the Design System and associated community events
 
 ## Steering Committee Responsibilities
-The Technical Steering Committee are responsible for:
+The Steering Committee are responsible for:
 - Keeping {Supporting Organisation} informed of forthcoming activities and decisions made which are relevant to {Supporting Organisation}'s work, via communication in this repository and our Slack community
 - Governance of {Supporting Organisation}'s conduct in support of the Design System
 - Making the broader community aware of {Supporting Organisation}'s involvement

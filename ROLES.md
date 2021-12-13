@@ -9,13 +9,13 @@ Matt Sawkill from Code for Australia (@sawks on Slack and GitHub) is the primary
     <figcaption align = "center">The Australian Government Design System “support ecosystem”</figcaption>
 </figure>
 
-## Maintainers (Technical Steering Committee)
+## Maintainers (Steering Committee)
 
-> A Maintainer is as a member of the Technical Steering Committee. The group of Maintainers forms the Steering Committee.
+> A Maintainer is as a member of the Steering Committee. The group of Maintainers forms the Steering Committee.
 
 * Maintainers are the core community members responsible for ongoing management and decision-making for the Design System
 * Anyone can become a Maintainer
-* The group of Maintainers forms the Technical Steering Committee (Steering Committee)
+* The group of Maintainers forms the Steering Committee (Steering Committee)
 * Membership, responsibilities expectations of the Steering Committee is covered by this [Steering Committee Charter](CHARTER.md) and our [Code of Conduct](CODE-OF-CONDUCT.md)
 * In Steering Committee, Maintainers have equal voting rights, and there is no other hierarchy within this group
 * Effectively they are the product managers and core developers of the Design System, leading the RFC process and facilitating working groups in order to make consensus decisions over technical architecture and future direction
