@@ -1,4 +1,4 @@
-# Technical Steering Committee (TSC) Charter
+# Steering Committee Charter
 
 ## Goals of the project
 
@@ -25,7 +25,7 @@
  
 We have chosen to adapt our principles from [the Gov UK, Government Design Principles](https://www.gov.uk/guidance/government-design-principles) and the [Australian Digital Service Standard](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria), these guidelines have been iterated on since 2012 and provide a solid foundation for delivering government service.
 
-## Responsibilities of TSC
+## Responsibilities of Steering Committee
 
 - Technical development
 - Design curation
@@ -36,28 +36,28 @@ We have chosen to adapt our principles from [the Gov UK, Government Design Princ
 - GitHub repository hosting and npm publishing
 - [Code of Conduct](CODE-OF-CONDUCT.md) enforcement
 - Development process and any coding standards
-- Mediating technical conflicts between Collaborators and TSC projects
+- Mediating technical conflicts between Collaborators and Steering Committee projects
 - Changes to this Charter
-- Maintain a list of all TSC members in the README.md
+- Maintain a list of all Steering Committee members in the README.md
 - Curation of RFCs
 
-## Make up of TSC
+## Make up of Steering Committee
 
-The make up of TSC should be a diverse and multidisciplinary group:
+The make up of Steering Committee should be a diverse and multidisciplinary group:
 
 - Include a diverse multidisciplinary team (developers, designers, accessibility experts, others)
 - Include people from government entities
 - Include experts from the private sector as volunteer advisors
 
-## Becoming a member of TSC
+## Becoming a member of Steering Committee
 
-Interest to join TSC to become a Maintainer, should be forwarded to maintainers@designsystemau.org. Please include information about your experience with the system and why you would like to join this group.
+Interest to join Steering Committee to become a Maintainer, should be forwarded to maintainers@designsystemau.org. Please include information about your experience with the system and why you would like to join this group.
 
 Anyone, with any level of experience can become a Maintainer.
 
-Inactivity in TSC may result in Maintainer status being revoked.
+Inactivity in Steering Committee may result in Maintainer status being revoked.
 
-## Losing membership of TSC
+## Losing membership of Steering Committee
 
 Reasons one might lose their membership in this group:
 
@@ -65,11 +65,11 @@ Reasons one might lose their membership in this group:
 - Extended absence from the project, including not attending meetings
 - Ineffectiveness in the role
 
-## TSC meetings
+## Steering Committee meetings
 
-The TSC can be called to meet to discuss matters around:
+The Steering Committee can be called to meet to discuss matters around:
 
-- TSC membership issues
+- Steering Committee membership issues
 - Changes to this Charter
 - New initiatives or working groups
 - Planning for major milestones
