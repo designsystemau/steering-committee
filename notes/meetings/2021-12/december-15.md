@@ -11,6 +11,7 @@
 
 ## Resources
 
+- [Slides](assets/slides-steering-committee-2021-December-15.pdf)
 - [Survey Summary Results](assets/survey-results.pdf)
 - [Survey Full Results](assets/survey-results-full.csv)
 
