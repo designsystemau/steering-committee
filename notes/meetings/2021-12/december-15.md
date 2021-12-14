@@ -21,12 +21,11 @@
 ## Survey findings
 
 * MS to present
-* Results at assets/survey-results.pdf and assets/survey-results-full.csv
 
 ## Prioritisation of actions related to survey findings
 
 * MS to facilitate
-* Addition Q from @elisechant: Is GitHub literacy an issue for RFC and Steering Committee process? Should we trial an alternate tool like Notion?
+* Additional from @elisechant: Is GitHub literacy an issue for RFC and Steering Committee process? Should we trial an alternate tool like Notion?
 
 ## Creating a skills register
 
@@ -68,4 +67,4 @@
 * [Distribute unminified and unprefixed CSS](https://github.com/designsystemau/RFCs/pull/16)
 
 
-## Open Discussion
+## Open Discussion (optional, if time permits)
