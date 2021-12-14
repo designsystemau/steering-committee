@@ -25,7 +25,6 @@
 ## Prioritisation of actions related to survey findings
 
 * MS to facilitate
-* Additional from @elisechant: Is GitHub literacy an issue for RFC and Steering Committee process? Should we trial an alternate tool like Notion?
 
 ## Maintainers commitments
 
@@ -38,15 +37,14 @@
 
 * DW to facilitate 
 * Slack: 
-  * @elisechant proposes sunsetting of #steering-committee
   * Creation of new Slack channels
-    * Technical group - #maintainers-tech
-    * Design group - #maintainers-design
-    * A11y group - #maintainers-a11y
-    * Content group - #maintainers-content
-  * Request people join the Slack channels to indicate their intention to maintain a practice
+    * Maintainers group - #steering-committee 
+    * Practice group - #tech
+    * Practice group - #design
+    * Practice group - #a11y
+    * Practice group - #content
 * GitHub:
-  * Creation of new GitHub group for "Technical group", and auto-assignment of PR's
+  * Maintainers GitHub group will now auto-assign PR's
 
 ## RFC approvals
 
