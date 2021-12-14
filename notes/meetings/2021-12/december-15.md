@@ -38,8 +38,8 @@
 
 * DW to facilitate 
 * Slack: 
-  * Creation of new Slack channels
-    * Maintainers group - #steering-committee 
+  * Maintainers group - #steering-committee 
+  * Creation of new Slack channels:
     * Practice group - #tech
     * Practice group - #design
     * Practice group - #a11y
