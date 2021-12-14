@@ -26,7 +26,7 @@
 ## Prioritisation of actions related to survey findings
 
 * MS to facilitate
-* Actions to be created in GitHub
+* Addition Q from @elisechant: Is GitHub literacy an issue for RFC and Steering Committee process? Should we trial an alternate tool like Notion?
 
 ## Creating a skills register
 
@@ -44,6 +44,8 @@
 * DW to facilitate 
   * Min time spend
   * 4 Steering Committee meetings / year
+  * Request people join the Slack channels to indicate their intention to maintain a practice
+  * @elisechant proposes that we consider sunsetting #steering-committee 
 
 ## RFC approvals
 
@@ -64,3 +66,6 @@
 * [Create STANDARDISED-ACCESSIBILITY-TESTING.md](https://github.com/designsystemau/RFCs/pull/6)
 * [Update Grid 12](https://github.com/designsystemau/RFCs/pull/11)
 * [Distribute unminified and unprefixed CSS](https://github.com/designsystemau/RFCs/pull/16)
+
+
+## Open Discussion
