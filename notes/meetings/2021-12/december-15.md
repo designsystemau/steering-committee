@@ -27,24 +27,26 @@
 * MS to facilitate
 * Additional from @elisechant: Is GitHub literacy an issue for RFC and Steering Committee process? Should we trial an alternate tool like Notion?
 
-## Creating a skills register
-
-* DW to facilitate
-  * Creation of new Slack channels
-    * Technical group
-    * Design group
-    * A11y group
-    * Content group
-  * Creation of new GitHub groups
-    * Specifically for "Technical group"
-
 ## Maintainers commitments
 
 * DW to facilitate 
   * Min time spend
   * 4 Steering Committee meetings / year
+  * Active engagement with project
+
+## Creating a skills register
+
+* DW to facilitate 
+* Slack: 
+  * @elisechant proposes sunsetting of #steering-committee
+  * Creation of new Slack channels
+    * Technical group - #maintainers-tech
+    * Design group - #maintainers-design
+    * A11y group - #maintainers-a11y
+    * Content group - #maintainers-content
   * Request people join the Slack channels to indicate their intention to maintain a practice
-  * @elisechant proposes that we consider sunsetting #steering-committee 
+* GitHub:
+  * Creation of new GitHub group for "Technical group", and auto-assignment of PR's
 
 ## RFC approvals
 
@@ -65,6 +67,5 @@
 * [Create STANDARDISED-ACCESSIBILITY-TESTING.md](https://github.com/designsystemau/RFCs/pull/6)
 * [Update Grid 12](https://github.com/designsystemau/RFCs/pull/11)
 * [Distribute unminified and unprefixed CSS](https://github.com/designsystemau/RFCs/pull/16)
-
 
 ## Open Discussion (optional, if time permits)
