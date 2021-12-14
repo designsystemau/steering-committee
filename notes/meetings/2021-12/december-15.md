@@ -51,18 +51,8 @@
 ## RFC approvals
 
 * [Remove pancake](https://github.com/designsystemau/RFCs/pull/1)
-* [Simplify monorepo (DRAFT)](https://github.com/designsystemau/RFCs/pull/2)
-* [Separate framework entry points (DRAFT)](https://github.com/designsystemau/RFCs/pull/3)
-* [Docs site improvements](https://github.com/designsystemau/RFCs/pull/4)
-* [Create STANDARDISED-ACCESSIBILITY-TESTING.md](https://github.com/designsystemau/RFCs/pull/6)
-* [Update Grid 12](https://github.com/designsystemau/RFCs/pull/11)
-* [Distribute unminified and unprefixed CSS](https://github.com/designsystemau/RFCs/pull/16)
-
-### Assigning people for implementation
-
-* [Remove pancake](https://github.com/designsystemau/RFCs/pull/1)
-* [Simplify monorepo (DRAFT)](https://github.com/designsystemau/RFCs/pull/2)
-* [Separate framework entry points (DRAFT)](https://github.com/designsystemau/RFCs/pull/3)
+* [Simplify monorepo](https://github.com/designsystemau/RFCs/pull/2)
+* [Separate framework entry points](https://github.com/designsystemau/RFCs/pull/3)
 * [Docs site improvements](https://github.com/designsystemau/RFCs/pull/4)
 * [Create STANDARDISED-ACCESSIBILITY-TESTING.md](https://github.com/designsystemau/RFCs/pull/6)
 * [Update Grid 12](https://github.com/designsystemau/RFCs/pull/11)
