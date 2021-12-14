@@ -6,7 +6,7 @@
 | - | - | - |
 | Dominik Wilkowski | DW |
 | Esther Semo | ES |
-| Matt Sawks | MS |
+| Matt Sawkill | MS |
 | Elise Chant | EC |
 
 ## Resources
