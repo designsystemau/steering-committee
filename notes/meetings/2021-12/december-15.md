@@ -6,6 +6,7 @@
 | - | - | - |
 | Dominik Wilkowski | DW |
 | Esther Semo | ES |
+| Matt Sawks | MS |
 | Elise Chant | EC |
 
 ## Resources
@@ -19,22 +20,42 @@
 
 ## Survey findings
 
-* ES to show results
+* MS to present
+* Results at assets/survey-results.pdf and assets/survey-results-full.csv
 
 ## Prioritisation of actions related to survey findings
 
-* TODO 
+* MS to facilitate
+* Actions to be created in GitHub
 
 ## Creating a skills register
 
-* TODO 
+* DW to facilitate
+  * Creation of new Slack channels
+    * Technical group
+    * Design group
+    * A11y group
+    * Content group
+  * Creation of new GitHub groups
+    * Specifically for "Technical group"
 
 ## Maintainers commitments
 
-* Min time spend
-* TODO
+* DW to facilitate 
+  * Min time spend
+  * 4 Steering Committee meetings / year
 
 ## RFC approvals
+
+* [Remove pancake](https://github.com/designsystemau/RFCs/pull/1)
+* [Simplify monorepo (DRAFT)](https://github.com/designsystemau/RFCs/pull/2)
+* [Separate framework entry points (DRAFT)](https://github.com/designsystemau/RFCs/pull/3)
+* [Docs site improvements](https://github.com/designsystemau/RFCs/pull/4)
+* [Create STANDARDISED-ACCESSIBILITY-TESTING.md](https://github.com/designsystemau/RFCs/pull/6)
+* [Update Grid 12](https://github.com/designsystemau/RFCs/pull/11)
+* [Distribute unminified and unprefixed CSS](https://github.com/designsystemau/RFCs/pull/16)
+
+### Assigning people for implementation
 
 * [Remove pancake](https://github.com/designsystemau/RFCs/pull/1)
 * [Simplify monorepo (DRAFT)](https://github.com/designsystemau/RFCs/pull/2)
